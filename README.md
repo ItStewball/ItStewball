@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Currently Studying at Varsity College Westville<br>📱 Developing multiple mobile applications for class<br>🖥 Skilled in developing simple desktop and web applications<br>🕴 Working as Cybersecurity for a large organisation 
-
+👨‍🎓 Currently Studying at Varsity College Westville<br>📱 Developing multiple mobile applications for class<br>🖥 Skilled in developing simple desktop and web applications<br>🕴 Working as Cybersecurity
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-stewart-21a212247) 
