@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Honours in Computer and Information Science<br>🖥️ Bachelors in Computer and Application Decelopment<br>📱 Developing multiple applications for Work and Hobbies<br>🖥 Skilled in developing simple desktop and web applications<br>🕴 Working in Cybersecurity
+👨‍🎓 Honours in Computer and Information Science<br>🖥️ Bachelors in Computer and Application Decelopment<br>📱 Developing multiple applications for Work and Hobbies<br>🌐 Skilled in developing simple desktop and web applications<br>🕴 Working in Cybersecurity
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-stewart-21a212247) 
