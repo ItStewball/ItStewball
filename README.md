@@ -1,5 +1,10 @@
 # 💫 About Me:
-👨‍🎓 Honours in Computer and Information Science<br>🖥️ Bachelors in Computer and Application Decelopment<br>📱 Developing multiple applications for Work and Hobbies<br>🌐 Skilled in developing simple desktop and web applications<br>🕴 Working in Cybersecurity
+👨‍🎓 Honours in Computer and Information Science
+<br>🖥️ Bachelors in Computer and Application Decelopment
+<br>📱 Developing multiple applications for Work and Hobbies
+<br>🌐 Skilled in developing simple desktop and web applications
+<br>🕴 Worked 2 years in Cybersecurity
+<br>💻 Working in Software Development
 
 
 ## 🌐 Socials:
